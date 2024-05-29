@@ -1,6 +1,6 @@
 ## Hey there, it's a pleasure to meet you! 👋
 
-<h1 align="left">Hey 👋 What's up?</h1>
+
 
 ###
 
