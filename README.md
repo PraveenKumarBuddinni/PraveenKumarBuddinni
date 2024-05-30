@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">Frameworks/Libraries:</p>
+<p align="left">Tools & Platforms:</p>
 
 ###
 
